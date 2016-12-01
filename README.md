@@ -1,2 +1,2 @@
-# tukangDownload
-Automated download ebooks, movies, etc
+# ebook-downloader
+Automated download free ebook every day
